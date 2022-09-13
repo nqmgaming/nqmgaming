@@ -1,4 +1,4 @@
-### Hi there <p align="center">Hello, I'm <p background: green;>Minh</p>. Welcome to my Github profile</p>
+### Hi there <p align="center">Hello, I'm <p color: red;>Minh</p>. Welcome to my Github profile</p>
 
 I am from PhuTho. I am currently studying at FPT Polytechnic College
 
