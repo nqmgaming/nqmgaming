@@ -1,4 +1,4 @@
-### Hi there <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Minh. Welcome to my Github profile " src="./assets/hi.jpg" /></a></p>
+### Hi there <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Minh. Welcome to my Github profile " src="./assets/hi.jpeg" /></a></p>
 
 I am from PhuTho
 
