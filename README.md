@@ -1,6 +1,7 @@
-### Hi there <p align="center"><a href="https://nqmgaming.github.io">Hello, I'm Minh. Welcome to my Github profile<a/></p>
+### Hi there <p align="center">Hello, I'm <p background: green;>Minh</p>. Welcome to my Github profile</p>
 
-I am from PhuTho
+I am from PhuTho. I am currently studying at FPT Polytechnic College
+
 
 <!--
 **nqmgaming/nqmgaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
