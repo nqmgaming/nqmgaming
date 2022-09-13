@@ -1,4 +1,4 @@
-### Hi there <p align="center"><a href="https://nqmgaming.github.io">Hello, I'm Minh. Welcome to my Github profile</></p>
+### Hi there <p align="center"><a href="https://nqmgaming.github.io">Hello, I'm Minh. Welcome to my Github profile<a/></p>
 
 I am from PhuTho
 
