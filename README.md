@@ -17,7 +17,7 @@ I am from PhuTho. I am currently studying at FPT Polytechnic College
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nqmgaming.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nqmgaming.dev" height="30" width="40" /></a>
+<a href="https://dev.to/nqmgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nqmgaming" height="30" width="40" /></a>
 <a href="https://twitter.com/nqm_gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nqm_gaming" height="30" width="40" /></a>
 <a href="https://fb.com/nqmgaming2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nqmgaming2004" height="30" width="40" /></a>
 <a href="https://instagram.com/nqmgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nqmgaming" height="30" width="40" /></a>
