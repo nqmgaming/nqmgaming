@@ -1,8 +1,8 @@
 ### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
 
 <p align="center">I am a Mobile Developer</p>
+
 ### About me
-<p align="center">
 - Name: Nguyen Quang Minh (nqmgaming)
 - Pronouns: he/him
 - School Email: minhnqph31902@fpt.edu.vn
@@ -10,4 +10,3 @@
 - Blog: [nqmgaming.io](https://wwww.nqmgaming.io)
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 - All the handles and things: [nqmgaming.com](https:/wwww.nqmgaming.com)
-</p>
