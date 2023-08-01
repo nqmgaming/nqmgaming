@@ -1,6 +1,6 @@
 ### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
 
-I am a Mobile Developer
+<p aligh = "center">I am a Mobile Developer</p>
 
 
 ### About me
