@@ -1,8 +1,7 @@
 ### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
 
-I am from PhuTho. I am currently studying at FPT Polytechnic College
+I am a Mobile Developer
 
-- ⚡ Fun fact **I am a good seller**
 
 ### About me
 - Name: Nguyen Quang Minh (nqmgaming)
