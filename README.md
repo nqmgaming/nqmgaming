@@ -8,7 +8,6 @@
 - School Email: minhnqph31902@fpt.edu.vn
 - Twitter: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
-- All the handles and things: [nqmgaming.com](https:/wwww.nqmgaming.com)
 
 ### Skill
 - AI, Java, Kotlin, C/C++, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp
