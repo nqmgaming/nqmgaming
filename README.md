@@ -11,3 +11,9 @@
 
 ### Skill
 - AI, Java, Kotlin, C/C++, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
