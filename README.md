@@ -10,7 +10,7 @@
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
 ### Skill
-- AI, Java, Kotlin, C/C++, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp
+- AI, Java, Kotlin, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp, UX/UI Design, Team leader 
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
