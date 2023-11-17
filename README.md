@@ -5,7 +5,8 @@
 ### About me
 - Name: Nguyen Quang Minh (nqmgaming)
 - Pronouns: he/him
-- School Email: minhnqph31902@fpt.edu.vn
+- Email: nguyenquangminh570@gmail.com
+- Telegram: [@nqmgaming](http://t.me/nqmgaming)
 - X: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
