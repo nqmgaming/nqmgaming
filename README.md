@@ -11,9 +11,3 @@
 
 ### Skill
 - AI, Java, Kotlin, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp, UX/UI Design, Team leader 
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
