@@ -1,7 +1,6 @@
 ### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
 
-<p align="center">I am a Mobile Developer</p>
-<p align="center">My favourite cartoon is Adventure Time :))</p>
+<p align="center">I am a Mobile Developer <br> My favourite cartoon is Adventure Time :))</p>
 
 ### About me
 - Name: Nguyen Quang Minh (nqmgaming)
@@ -12,4 +11,4 @@
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
 ### Skill
-- AI, Java, Kotlin, Html/Css, Javascript, Bash, Linux, SQL, Tool, Find Bug inapp, UX/UI Design, Team leader 
+- AI, Java, Kotlin, Html/CSS, Javascript, Bash, Linux, SQL, Tool, Find Bug in-app, UX/UI Design, Team leader 
