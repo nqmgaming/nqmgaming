@@ -1,6 +1,7 @@
 ### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
 
 <p align="center">I am a Mobile Developer</p>
+<p align="center">My favourite cartoon is Adventure Time :))</p>
 
 ### About me
 - Name: Nguyen Quang Minh (nqmgaming)
