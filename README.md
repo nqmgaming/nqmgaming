@@ -3,8 +3,6 @@
 <p align="center">I am a Mobile Developer <br> My favourite cartoon is Adventure Time :))</p>
 
 ### About me
-- Name: Nguyen Quang Minh (nqmgaming)
-- Pronouns: he/him
 - Email: nguyenquangminh570@gmail.com
 - Telegram: [@nqmgaming](http://t.me/nqmgaming)
 - X: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
