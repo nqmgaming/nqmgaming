@@ -9,4 +9,7 @@
 - YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
 ### Skill
-- AI, Java, Kotlin, Html/CSS, Javascript, Bash, Linux, SQL, Tool, Find Bug in-app, UX/UI Design, Team leader 
+- AI, Java, Kotlin, Html/CSS, Javascript, Bash, Linux, SQL, Tool, Find Bug in-app, UX/UI Design, Team leader  :)) and I am a student
+
+## What do I want??
+- Learn more and more 🤣
