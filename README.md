@@ -1,18 +1,39 @@
-### <p align="center">Hi there I'm Minh</p><br><p align="center">Welcome to my Github profile</p>
+### <p align="center">Hi there, I'm Minh 👋</p>
+<p align="center">Welcome to my GitHub profile! 🚀</p>
 
-<p align="center">I am a Mobile Developer <br> My favourite cartoon is Adventure Time :))</p>
+<p align="center">I'm a passionate Mobile Developer, and when I'm not coding, you can find me enjoying the adventurous world of <b>Adventure Time</b> 😄</p>
 
-### About me
-- Email: nguyenquangminh570@gmail.com
-- Telegram: [@nqmgaming](http://t.me/nqmgaming)
-- X: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
-- YouTube: [https://youtube.com/nqmgaming](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
+---
 
-### Skill
-- AI, Java, Kotlin, Html/CSS, Javascript, Bash, Linux, SQL, Tool, Find Bug in-app, UX/UI Design, Team leader and more than I know maybe you know 😎😎😎😎😎  :)) and I am a student
+### About Me
 
-## What do I want??
-- Learn more and more 🤣
+- **Email**: [nguyenquangminh570@gmail.com](mailto:nguyenquangminh570@gmail.com)
+- **Telegram**: [@nqmgaming](http://t.me/nqmgaming)
+- **X (Twitter)**: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
+- **YouTube**: [nqmgaming Channel](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
-## You know what?
-- If it weren't for homework, I wouldn't want to develop an e-commerce application, but during the coding process I learned quite a lot.
+---
+
+### Skills & Expertise
+
+I specialize in:
+- **Programming Languages**: Kotlin, Swift, JavaScript, SQL
+- **Technologies & Tools**: AI, Bash, Linux, SQL Databases, UX/UI Design, Debugging, Team Leadership
+- **API Development**: Experienced in creating APIs specifically for mobile applications.
+- I'm always eager to learn new technologies and improve my skills every day 😎
+
+---
+
+### What Am I Looking For?
+
+- I’m here to **learn**, **collaborate**, and **grow** with other developers. 🤩
+
+---
+
+### Fun Fact
+
+- I probably wouldn’t have developed an e-commerce application if it weren't for homework. But through the process, I learned a lot and it was worth the effort! 📦💻
+
+---
+
+Feel free to connect with me! 🤝
