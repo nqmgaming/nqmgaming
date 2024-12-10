@@ -10,7 +10,7 @@
 - **Email**: [nguyenquangminh570@gmail.com](mailto:nguyenquangminh570@gmail.com)
 - **Telegram**: [@nqmgaming](http://t.me/nqmgaming)
 - **X (Twitter)**: [@nqm_gaming](https://www.twitter.com/nqm_gaming)
-- **YouTube**: [nqmgaming Channel](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
+- **YouTube**: [Nguyễn Quang Minh (NQM)](https://youtube.com/channel/UCs90j_mc0KKvLP2Wfgjxt5w)
 
 ---
 
